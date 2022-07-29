@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Gallego M."
+  given-names: "Joseph A."
+  orcid: "https://orcid.org/0000-0001-8971-4998"
+- family-names: "Osorio"
+  given-names: "Juan F."
+  orcid: "https://orcid.org/0000-0001-7983-9199"
+- family-names: "Gonzalez"
+  given-names: "Fabio A."
+  orcid: "https://orcid.org/0000-0001-9009-7288"
+title: "Fast Kernel Density Estimation with Density Matrices and Random Fourier Features Software"
+version: 1.0.1
+doi:
+date-released: 2022-07-29
+
